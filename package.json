@@ -1,3 +1,8 @@
+"homepage": "https://OLA-D-GREAT023-design.github.io/interactive-story-globe",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
+}
 {
   "name": "interactive-story-globe",
   "version": "1.0.0",
