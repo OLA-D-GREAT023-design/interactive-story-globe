@@ -1,0 +1,18 @@
+[
+  {
+    "id": "s1",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "title": "Fog & Story — London",
+    "content": "An old tale told along the foggy Thames. This story blends real history with fictional travelers.",
+    "media": { "imageUrl": "/src/assets/london.jpg" }
+  },
+  {
+    "id": "s2",
+    "lat": 29.9792,
+    "lng": 31.1342,
+    "title": "Desert Echoes — Giza",
+    "content": "Whispers beneath the pyramids: a poet finds a map to a lost library.",
+    "media": { "imageUrl": "/src/assets/giza.jpg" }
+  }
+]
